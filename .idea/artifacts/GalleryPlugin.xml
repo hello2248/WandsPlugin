@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GalleryPlugin">
+    <output-path>$USER_HOME$/Desktop/1.8 Server/plugins</output-path>
+    <root id="archive" name="GalleryPlugin.jar">
+      <element id="module-output" name="GalleryPlugin" />
+    </root>
+  </artifact>
+</component>

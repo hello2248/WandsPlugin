@@ -1,0 +1,8 @@
+name: GalleryPlugin
+main: Gallery
+version: 1.0
+author: hello2248
+commands:
+  wands:
+    usage: /<command>
+    description: Select a wand!
